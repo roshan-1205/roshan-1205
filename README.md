@@ -1,3 +1,5 @@
+<img src="https://github.com/roshan-1205/roshan-1205/blob/main/RS.png?raw=true">
+
 # Hi, I’m Roshan 👋
 
 A Computer Science student and full-stack developer passionate about building clean, scalable, and impact-driven web applications.
