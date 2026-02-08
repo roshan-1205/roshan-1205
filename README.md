@@ -27,7 +27,7 @@ Currently sharpening my skills in backend systems, modern frontend frameworks, a
 - Firebase
 
 ### Programming & Tools
-- Python, C, C++
+- Python, C
 - Git & GitHub
 - Matplotlib, Canva
 
