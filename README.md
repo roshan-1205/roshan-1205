@@ -1,5 +1,55 @@
-# Roshan Kumar Singh
-Tech Enthusiast, MERN Stack Developer (in progress)<br>Skilled in HTML, CSS, JavaScript, React.js,  MongoDb, Mongoose.<br><br>Currently building tech projects to help others and solve real-world problems.<br>Passionate about creating meaningful and impactful solutions.<br><br>Learning Java and enhancing backend skills<br>Open to internships, hackathons & meaningful tech collaborations.
+# Hi, I’m Roshan 👋
+
+A Computer Science student and full-stack developer passionate about building clean, scalable, and impact-driven web applications.
+
+I enjoy turning ideas into real-world products with a strong focus on usability, performance, and good design.  
+Currently sharpening my skills in backend systems, modern frontend frameworks, and cloud deployment.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5, CSS3, JavaScript (ES6)
+- React.js, Angular
+- Bootstrap
+
+### Backend
+- Node.js, Express.js
+- FastAPI
+- Apache
+
+### Databases
+- MongoDB
+- MySQL
+- Firebase
+
+### Programming & Tools
+- Python, C, C++
+- Git & GitHub
+- Matplotlib, Canva
+
+### Cloud & Deployment
+- Google Cloud
+- Vercel
+- Netlify
+- Render
+
+---
+
+## 🌱 Currently Exploring
+- AI-assisted development
+- Scalable backend architectures
+- Clean UI & UX systems
+
+---
+
+> *Code with clarity. Build with purpose.*
+> <br>
+ <br>
+  <br>
+
+
 
 <img src="https://camo.githubusercontent.com/9df67b5875f544e73c5e99e86d4b0eda867eba55972c756ce0f3c53c725f11f2/687474703a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
 
