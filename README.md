@@ -352,7 +352,7 @@ Security:  Encryption, Secure Storage
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-**Email:** roshankumar021@gmail.com
+**Email:** roshankumarsingh021@gmail.com
 
 **LinkedIn:** [Roshan Kumar Singh](https://www.linkedin.com/in/roshan-kumar-singh-9b9191299)
 
@@ -381,3 +381,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4145A&height=120&section=footer" width="100%"/>
 
 </div>
+
