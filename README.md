@@ -220,11 +220,8 @@ Security:  Encryption, Secure Storage
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshan-1205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=1F6FEB"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-1205&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
+  <a href="https://github.com/roshan-1205">
+  </a>
 </div>
 
 <div align="center">
@@ -384,71 +381,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4145A&height=120&section=footer" width="100%"/>
 
 </div>
-
-
----
-
-## 🐍 Setup Snake Animation (GitHub Action)
-
-To enable the contribution snake animation on your profile, follow these steps:
-
-### Step 1: Create Workflow File
-
-Create a file at `.github/workflows/snake.yml` in your profile repository with this content:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: roshan-1205
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Push github-contribution-grid-snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### Step 2: Enable GitHub Actions
-
-1. Go to your repository **Settings**
-2. Navigate to **Actions** → **General**
-3. Under **Workflow permissions**, select **Read and write permissions**
-4. Click **Save**
-
-### Step 3: Run the Workflow
-
-1. Go to **Actions** tab in your repository
-2. Click on **Generate Snake Animation**
-3. Click **Run workflow** → **Run workflow**
-4. Wait for completion (1-2 minutes)
-
-The snake animation will now appear in your README! 🎉
