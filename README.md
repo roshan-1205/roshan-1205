@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4145A&height=200&section=header&text=Roshan%20Kumar%20Singh&fontSize=50&fontAlignY=35&desc=B.Tech%20CSE%20|%20Full%20Stack%20Developer%20|%20AI%20Engineer&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4145A&height=200&section=header&text=Roshan%20Kumar%20Singh&fontSize=50&fontAlignY=35&desc=B.Tech%20CSE%20|%20MERN%20Stack%20Developer%20|%20AI%20Engineer&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=fff" width="100%"/>
 </div>
 
 <div align="center">
@@ -381,4 +381,5 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4145A&height=120&section=footer" width="100%"/>
 
 </div>
+
 
