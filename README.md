@@ -26,7 +26,7 @@
 const roshan = {
     location: "India 🇮🇳",
     education: "B.Tech in Computer Science",
-    role: "Full Stack Developer & AI Engineer",
+    role: "MERN Stack Developer & AI Engineer",
     currentFocus: ["AI Engineering", "Cloud Architecture", "System Design"],
     workingOn: ["Voice AI Applications", "Civic Tech Solutions"],
     learning: ["Advanced AWS Services", "RAG Systems", "GATE Preparation"],
@@ -43,7 +43,7 @@ const roshan = {
 
 <br/>
 
-I'm a **B.Tech Computer Science student** and passionate **Full Stack Developer** specializing in building intelligent, scalable applications that solve real-world problems. My expertise spans modern web technologies, cloud infrastructure, and artificial intelligence.
+I'm a **B.Tech Computer Science student** and passionate **MERN Stack Developer** specializing in building intelligent, scalable applications that solve real-world problems. My expertise spans modern web technologies, cloud infrastructure, and artificial intelligence.
 
 🎯 **What I Do:**
 - 🚀 Build full-stack applications using MERN stack
@@ -381,5 +381,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4145A&height=120&section=footer" width="100%"/>
 
 </div>
+
 
 
