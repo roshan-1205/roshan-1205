@@ -284,7 +284,6 @@ Security:  Encryption, Secure Storage
 ![IaC](https://img.shields.io/badge/Infrastructure_as_Code-FF5400?style=for-the-badge&logoColor=white)
 
 </td>
-<td align="center" width="50%">
 </tr>
 </table>
 
