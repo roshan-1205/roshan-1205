@@ -317,7 +317,6 @@ Security:  Encryption, Secure Storage
 | Deployed Apps on AWS Cloud | ✅ Completed |
 | Mastered MERN Stack | ✅ Completed |
 | Learning AI Engineering | 🔄 In Progress |
-| GATE Preparation | 🔄 In Progress |
 
 </div>
 
