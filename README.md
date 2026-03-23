@@ -285,13 +285,6 @@ Security:  Encryption, Secure Storage
 
 </td>
 <td align="center" width="50%">
-
-### 📖 GATE Preparation
-![DSA](https://img.shields.io/badge/Data_Structures-00D9FF?style=for-the-badge&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-FF006E?style=for-the-badge&logoColor=white)
-![Networks](https://img.shields.io/badge/Computer_Networks-9D4EDD?style=for-the-badge&logoColor=white)
-
-</td>
 </tr>
 </table>
 
