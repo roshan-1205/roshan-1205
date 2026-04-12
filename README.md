@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Roshan%20Kumar%20Singh&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Technology%20Strategist%20•%20AI%20Innovation%20Leader%20•%20Digital%20Transformation%20Expert&descAlignY=51&descAlign=62&stroke=fff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=320&section=header&text=Roshan%20Kumar%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Technology%20Strategist%20•%20AI%20Innovation%20Leader%20•%20Digital%20Transformation%20Expert&descAlignY=55&descAlign=50&stroke=fff&strokeWidth=1" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=🚀+Building+Next-Generation+AI+Solutions;☁️+Architecting+Enterprise-Scale+Cloud+Infrastructure;🤖+Pioneering+Voice-First+Technology+Innovation;🌍+Transforming+Digital+Experiences+Globally;💡+Leading+Strategic+Technology+Initiatives" alt="Advanced Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Cool+Projects" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -26,16 +28,21 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<div align="center">
 <table>
 <tr>
 <td width="60%">
 
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=F75C7E&multiline=true&width=600&height=100&lines=Passionate+Technology+Leader;AI-Driven+Solutions+Expert;Enterprise+Architecture+Specialist" />
+</div>
 
 **Transforming complex business challenges into scalable, intelligent systems that drive measurable impact across global markets.**
 
 ### 🎯 **Core Expertise**
+<div align="center">
 <img src="https://skillicons.dev/icons?i=python,react,nodejs,aws,mongodb,docker,kubernetes,tensorflow" />
+</div>
 
 - 🤖 **AI & Machine Learning** - Advanced NLP, Voice AI, RAG Systems
 - ☁️ **Cloud Architecture** - AWS, Serverless, Microservices  
@@ -44,7 +51,9 @@
 - 🏗️ **System Design** - Scalable, secure, enterprise-grade solutions
 
 ### 🌟 **Mission**
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=36BCF7&width=500&lines=Democratizing+technology+access;Creating+positive+social+impact;Delivering+exceptional+business+value" />
+</div>
 
 ### 📍 **Location & Education**
 - 🇮🇳 Based in India
@@ -54,14 +63,19 @@
 </td>
 <td width="40%">
 
-<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100%" alt="Coding Animation"/>
+<div align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" alt="Coding Animation"/>
+</div>
 
 ### 📊 **Quick Stats**
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=800&color=FF6B6B&multiline=true&width=300&height=120&lines=const+profile+%3D+%7B;++experience%3A+%22Enterprise%22%2C;++focus%3A+%22AI+Innovation%22%2C;++architecture%3A+%22Cloud-Native%22%2C;++impact%3A+%22Social+%2B+Business%22;%7D%3B" />
+</div>
 
 </td>
 </tr>
 </table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -76,7 +90,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Advanced+Technology+Arsenal;Enterprise-Grade+Solutions;Cutting-Edge+Innovation" />
 
 ### 🤖 **AI & Machine Learning**
-<p>
+<p align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
   </a>
@@ -92,7 +106,7 @@
 </p>
 
 ### ☁️ **Cloud & Infrastructure**
-<p>
+<p align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" />
   </a>
@@ -105,7 +119,7 @@
 </p>
 
 ### 💻 **Development & Frameworks**
-<p>
+<p align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask" />
   </a>
@@ -115,7 +129,7 @@
 </p>
 
 ### 🗄️ **Databases & Storage**
-<p>
+<p align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
   </a>
@@ -131,7 +145,7 @@
 </p>
 
 ### 🔧 **DevOps & Tools**
-<p>
+<p align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,grafana" />
   </a>
@@ -162,26 +176,38 @@
 <tr>
 <td align="center" width="33%">
 
+<div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="50px">
+</div>
 
 ### ☁️ **Cloud Excellence**
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=36BCF7&center=true&multiline=true&width=200&height=80&lines=60%25+Cost+Reduction;99.9%25+Uptime;10M%2B+Users" />
+</div>
 
 </td>
 <td align="center" width="33%">
 
+<div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/rocket.gif?raw=true" width="50px">
+</div>
 
 ### 🚀 **Performance**
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF6B6B&center=true&multiline=true&width=200&height=80&lines=%3C200ms+Response;80%25+Faster+Deploy;300%25+Growth" />
+</div>
 
 </td>
 <td align="center" width="33%">
 
+<div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/shield.gif?raw=true" width="50px">
+</div>
 
 ### 🔒 **Security**
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=10B981&center=true&multiline=true&width=200&height=80&lines=Enterprise+Grade;Gov+Compliance;Zero-Knowledge" />
+</div>
 
 </td>
 </tr>
@@ -189,8 +215,26 @@
 
 ### 📊 **Technology Impact Matrix**
 
-<img src="https://github-readme-stats.vercel.app/api?username=roshan-1205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=36BCF7&text_color=E5E7EB&border_radius=10" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-1205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=E5E7EB&border_radius=10" width="48%" />
+<table>
+<tr>
+<td width="50%">
+<div align="center">
+<a href="https://github.com/roshan-1205" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=roshan-1205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=36BCF7&text_color=E5E7EB&border_radius=10&card_width=400" alt="GitHub Stats"/>
+</a>
+</div>
+</td>
+<td width="50%">
+<div align="center">
+<a href="https://github.com/roshan-1205" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-1205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=E5E7EB&border_radius=10" width="100%" alt="Top Languages"/>
+</a>
+</div>
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 | **Service** | **Business Value** | **ROI Impact** |
 |-------------|-------------------|----------------|
@@ -199,6 +243,8 @@
 | 🤖 **AI Integration** | Intelligent automation | **50%** efficiency gain |
 | 🎙️ **Voice AI** | Accessibility expansion | **300%** market reach |
 | ☁️ **Cloud Architecture** | Global scalability | **10M+** concurrent users |
+
+</div>
 
 </div>
 
@@ -332,48 +378,46 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 <table>
 <tr>
 <td width="50%">
-
-<a href="https://github.com/roshan-1205" target="_blank">
+<div align="center">
+<a href="https://github.com/topics/readme-stats" target="_blank">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-1205&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=36BCF7&fire=F59E0B&currStreakLabel=E5E7EB&border_radius=10&card_width=400" alt="GitHub Streak"/>
 </a>
-
+</div>
 </td>
 <td width="50%">
-
-<a href="https://github.com/roshan-1205" target="_blank">
+<div align="center">
+<a href="https://github.com/topics/readme-stats" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=roshan-1205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=36BCF7&text_color=E5E7EB&border_radius=10&card_width=400" alt="GitHub Stats"/>
 </a>
-
+</div>
 </td>
 </tr>
 </table>
 
-<a href="https://github.com/roshan-1205" target="_blank">
+<div align="center">
+<a href="https://github.com/topics/readme-stats" target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan-1205&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=FF6B6B&line=36BCF7&point=F59E0B&area_color=10B981&title_color=E5E7EB&area=true&hide_border=true&radius=10" width="100%" alt="Activity Graph"/>
 </a>
+</div>
 
 </div>
 
 ### 🏆 **Achievement Showcase**
 
 <div align="center">
-
-<a href="https://github.com/roshan-1205" target="_blank">
+<a href="https://github.com/topics/readme-stats" target="_blank">
   <img src="https://github-profile-trophy.vercel.app/?username=roshan-1205&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
 </a>
-
 </div>
 
 ### 🐍 **Contribution Visualization**
 
 <div align="center">
-  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshan-1205/roshan-1205/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshan-1205/roshan-1205/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/roshan-1205/roshan-1205/output/github-contribution-grid-snake.svg">
 </picture>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -392,18 +436,26 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 <tr>
 <td align="center" width="50%">
 
+<div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/trophy.gif?raw=true" width="80px">
+</div>
 
 ### 🏆 **Key Achievements**
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=F59E0B&center=true&multiline=true&width=300&height=120&lines=🥇+Multiple+Hackathon+Wins;🚀+Enterprise+Deployments;📈+Proven+ROI+Results;🌍+Global+Solutions;💡+Innovation+Leadership" />
+</div>
 
 </td>
 <td align="center" width="50%">
 
+<div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/analytics.gif?raw=true" width="80px">
+</div>
 
 ### 📊 **Performance KPIs**
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=36BCF7&center=true&multiline=true&width=300&height=120&lines=⚡+99.9%25+Uptime;💰+60%25+Cost+Reduction;😊+95%25+User+Satisfaction;📈+300%25+Market+Growth;🔄+4%2B+Annual+Releases" />
+</div>
 
 </td>
 </tr>
@@ -412,9 +464,7 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 ### 🎯 **Current Focus Areas**
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,14,30,25&height=80&section=header&text=Strategic%20Innovation%20Leadership&fontSize=24&fontColor=fff&animation=fadeIn" width="100%"/>
-
 </div>
 
 <p align="center">
@@ -430,9 +480,7 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 </p>
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=E5E7EB&center=true&vCenter=true&width=900&lines=Driving+enterprise+AI+adoption+with+measurable+outcomes;Strategic+technology+leadership+%26+innovative+architecture;Creating+sustainable+competitive+advantages" />
-
 </div>
 
 </div>
@@ -453,15 +501,19 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 <tr>
 <td align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="100px">
+<div align="center">
+<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="600"/>
+</div>
 
 ### 📧 **Professional Contact**
+<div align="center">
 <a href="mailto:roshankumarsingh021@gmail.com" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=roshankumarsingh021%40gmail.com" />
 </a>
+</div>
 
 ### 🌐 **Professional Networks**
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/roshan-kumar-singh-9b9191299" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn"/>
   </a>
@@ -477,7 +529,9 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 </p>
 
 ### 💼 **Collaboration Opportunities**
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=10B981&center=true&multiline=true&width=400&height=140&lines=🤝+Strategic+Technology+Partnerships;🚀+AI+Innovation+Projects;🏗️+Enterprise+Solution+Architecture;🎤+Speaking+%26+Conferences;💰+Investment+%26+Business+Development" />
+</div>
 
 </td>
 </tr>
