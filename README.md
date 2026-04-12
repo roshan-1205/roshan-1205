@@ -347,7 +347,7 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 </td>
 <td width="40%">
 
-<img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617267696e672e676966" width="100%"/>
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600"/>
 
 #### 📊 **Platform Highlights**
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=F59E0B&multiline=true&width=300&height=120&lines=Live+Demo%3A+Netlify+Deployed;Real-time%3A+Socket.io+Integration;Security%3A+JWT+%2B+OAuth;UI%3A+Modern+Component+Library" />
@@ -384,13 +384,10 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 </a>
 </div>
 </td>
-<td width="50%">
 <div align="center">
 <a href="https://github.com/topics/readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshan-1205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=36BCF7&text_color=E5E7EB&border_radius=10&card_width=400" alt="GitHub Stats"/>
 </a>
 </div>
-</td>
 </tr>
 </table>
 
@@ -404,11 +401,18 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 
 ### 🏆 **Achievement Showcase**
 
-<div align="center">
-<a href="https://github.com/topics/readme-stats" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=roshan-1205&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
-</a>
-</div>
+<h3 align="center">🏆 Achievement Showcase</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+  🚀 Built <b>Vibely</b> – Full Stack Social Platform <br>
+  💻 Web Development Certified <br>
+  🏅 Hackathon Participant (Trillx 1.0) <br>
+  ⚡ Real-time Features & Clean UI
+</p>
 
 ### 🐍 **Contribution Visualization**
 
