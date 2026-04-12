@@ -1,325 +1,483 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4145A&height=200&section=header&text=Roshan%20Kumar%20Singh&fontSize=50&fontAlignY=35&desc=Technology%20Strategist%20|%20AI%20Innovation%20Leader%20|%20Digital%20Transformation%20Expert&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=fff" width="100%"/>
-</div>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Driving+Digital+Transformation+Through+AI+Innovation+%F0%9F%9A%80;Architecting+Scalable+Solutions+for+Enterprise+Growth+%E2%98%81%EF%B8%8F;Leading+Technology+Initiatives+with+Strategic+Impact+%F0%9F%8C%8D)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Roshan%20Kumar%20Singh&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Technology%20Strategist%20•%20AI%20Innovation%20Leader%20•%20Digital%20Transformation%20Expert&descAlignY=51&descAlign=62&stroke=fff&strokeWidth=2" width="100%"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=🚀+Building+Next-Generation+AI+Solutions;☁️+Architecting+Enterprise-Scale+Cloud+Infrastructure;🤖+Pioneering+Voice-First+Technology+Innovation;🌍+Transforming+Digital+Experiences+Globally;💡+Leading+Strategic+Technology+Initiatives" alt="Advanced Typing SVG" />
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=roshan-1205&color=2E3192&style=for-the-badge&label=PROFILE+VIEWS)
-  [![GitHub followers](https://img.shields.io/github/followers/roshan-1205?label=Followers&style=for-the-badge&color=1BFFFF)](https://github.com/roshan-1205)
-  [![GitHub Stars](https://img.shields.io/github/stars/roshan-1205?label=Stars&style=for-the-badge&color=D4145A)](https://github.com/roshan-1205)
-  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roshan-1205&color=blueviolet&style=for-the-badge&label=Profile+Views&labelColor=black" alt="Profile Views"/>
+  <a href="https://github.com/roshan-1205?tab=followers">
+    <img src="https://img.shields.io/github/followers/roshan-1205?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/roshan-1205?tab=repositories">
+    <img src="https://img.shields.io/github/stars/roshan-1205?label=Stars&style=for-the-badge&color=yellow&labelColor=black" alt="GitHub Stars"/>
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </div>
 
 ---
 
-## 🎯 Executive Summary
+## 👨‍💻 About Me
 
-<img align="right" alt="Innovation" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```javascript
-const executiveProfile = {
-    location: "India 🇮🇳",
-    education: "B.Tech Computer Science Engineering",
-    expertise: "AI Strategy & Digital Transformation",
-    leadership: ["Technology Innovation", "Product Development", "Strategic Planning"],
-    currentInitiatives: ["AI-Powered Civic Solutions", "Cloud-Native Architecture"],
-    strategicFocus: ["Enterprise AI Integration", "Scalable System Design", "Market Expansion"],
-    technologyStack: {
-        aiPlatforms: ["OpenAI GPT", "NLP Systems", "Voice AI", "RAG Architecture"],
-        cloudInfrastructure: ["AWS Lambda", "Serverless Computing", "API Gateway"],
-        fullStackDevelopment: ["React.js", "Node.js", "Python", "FastAPI"],
-        dataManagement: ["MongoDB", "DynamoDB", "Vector Databases"]
-    },
-    businessObjective: "Leveraging AI to create transformative solutions with measurable ROI",
-    visionStatement: "Democratizing technology access through intelligent, scalable platforms"
-};
+<table>
+<tr>
+<td width="60%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=F75C7E&multiline=true&width=600&height=100&lines=Passionate+Technology+Leader;AI-Driven+Solutions+Expert;Enterprise+Architecture+Specialist" />
+
+**Transforming complex business challenges into scalable, intelligent systems that drive measurable impact across global markets.**
+
+### 🎯 **Core Expertise**
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,aws,mongodb,docker,kubernetes,tensorflow" />
+
+- 🤖 **AI & Machine Learning** - Advanced NLP, Voice AI, RAG Systems
+- ☁️ **Cloud Architecture** - AWS, Serverless, Microservices  
+- 🚀 **Full-Stack Development** - React, Node.js, Python, FastAPI
+- 📊 **Data Engineering** - MongoDB, DynamoDB, Vector Databases
+- 🏗️ **System Design** - Scalable, secure, enterprise-grade solutions
+
+### 🌟 **Mission**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=36BCF7&width=500&lines=Democratizing+technology+access;Creating+positive+social+impact;Delivering+exceptional+business+value" />
+
+### 📍 **Location & Education**
+- 🇮🇳 Based in India
+- 🎓 B.Tech in Computer Science Engineering  
+- 🌱 Continuously learning: Advanced AI Engineering & Cloud Architecture
+
+</td>
+<td width="40%">
+
+<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100%" alt="Coding Animation"/>
+
+### 📊 **Quick Stats**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=800&color=FF6B6B&multiline=true&width=300&height=120&lines=const+profile+%3D+%7B;++experience%3A+%22Enterprise%22%2C;++focus%3A+%22AI+Innovation%22%2C;++architecture%3A+%22Cloud-Native%22%2C;++impact%3A+%22Social+%2B+Business%22;%7D%3B" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🛠️ Technology Stack
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Advanced+Technology+Arsenal;Enterprise-Grade+Solutions;Cutting-Edge+Innovation" />
+
+### 🤖 **AI & Machine Learning**
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  </a>
+  <a href="https://openai.com" target="_blank">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=black" alt="OpenAI"/>
+  </a>
+  <a href="https://huggingface.co" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=black" alt="Hugging Face"/>
+  </a>
+  <a href="https://langchain.com" target="_blank">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=black" alt="LangChain"/>
+  </a>
+</p>
+
+### ☁️ **Cloud & Infrastructure**
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" />
+  </a>
+  <a href="https://serverless.com" target="_blank">
+    <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white&labelColor=black" alt="Serverless"/>
+  </a>
+  <a href="https://aws.amazon.com/cloudformation/" target="_blank">
+    <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black" alt="CloudFormation"/>
+  </a>
+</p>
+
+### 💻 **Development & Frameworks**
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" alt="TypeScript"/>
+  </a>
+</p>
+
+### 🗄️ **Databases & Storage**
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
+  </a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank">
+    <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white&labelColor=black" alt="DynamoDB"/>
+  </a>
+  <a href="https://www.pinecone.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=black" alt="Pinecone"/>
+  </a>
+  <a href="https://www.trychroma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logoColor=white&labelColor=black" alt="ChromaDB"/>
+  </a>
+</p>
+
+### 🔧 **DevOps & Tools**
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,grafana" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=black" alt="GitHub Actions"/>
+  </a>
+</p>
+
+<a href="https://github.com/roshan-1205" target="_blank">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack+Mastery&titleColor=FF6B6B&lineCount=3&theme=github_dark&bg=0D1117&badge=FF6B6B&border=30363D&titleSize=20&descSize=14&width=800&fontSize=14&radius=10" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🏗️ Architecture & Performance Metrics
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Enterprise+Performance+Excellence;Scalable+Architecture+Design;Mission-Critical+Reliability" />
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="50px">
+
+### ☁️ **Cloud Excellence**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=36BCF7&center=true&multiline=true&width=200&height=80&lines=60%25+Cost+Reduction;99.9%25+Uptime;10M%2B+Users" />
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/rocket.gif?raw=true" width="50px">
+
+### 🚀 **Performance**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF6B6B&center=true&multiline=true&width=200&height=80&lines=%3C200ms+Response;80%25+Faster+Deploy;300%25+Growth" />
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/shield.gif?raw=true" width="50px">
+
+### 🔒 **Security**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=10B981&center=true&multiline=true&width=200&height=80&lines=Enterprise+Grade;Gov+Compliance;Zero-Knowledge" />
+
+</td>
+</tr>
+</table>
+
+### 📊 **Technology Impact Matrix**
+
+<img src="https://github-readme-stats.vercel.app/api?username=roshan-1205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=36BCF7&text_color=E5E7EB&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-1205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=E5E7EB&border_radius=10" width="48%" />
+
+| **Service** | **Business Value** | **ROI Impact** |
+|-------------|-------------------|----------------|
+| 🚀 **AWS Lambda** | Serverless optimization | **60%** cost reduction |
+| 🌐 **API Gateway** | Scalable management | **99.9%** uptime |
+| 🤖 **AI Integration** | Intelligent automation | **50%** efficiency gain |
+| 🎙️ **Voice AI** | Accessibility expansion | **300%** market reach |
+| ☁️ **Cloud Architecture** | Global scalability | **10M+** concurrent users |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🚀 Featured Projects
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&lines=Revolutionary+AI+Solutions;Enterprise-Grade+Platforms;Market-Leading+Innovation" />
+</div>
+
+### 🎙️ **VAANI** - AI-Powered Civic Engagement Platform
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6,17,13,4&height=100&section=header&text=VAANI&fontSize=40&fontColor=fff&animation=twinkling&stroke=fff&strokeWidth=1" width="100%"/>
+</div>
+
+<table>
+<tr>
+<td width="60%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&multiline=true&width=500&lines=Revolutionary+voice-first+platform;Democratizing+civic+participation;AI+technology+at+its+finest" />
+
+#### 🎯 **Key Features**
+- 🗣️ **Advanced Voice AI** - Multi-language processing with **95%** accuracy
+- 📍 **Smart Geolocation** - Real-time issue mapping and tracking
+- 🔔 **Intelligent Notifications** - AI-driven priority routing
+- 🔐 **Enterprise Security** - JWT authentication with encryption
+- 📊 **Analytics Dashboard** - Real-time insights and KPIs
+
+#### 🏗️ **Technology Stack**
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react,python,mongodb,aws,docker" />
+</a>
+
+```yaml
+Frontend:  React.js, Progressive Web App
+Backend:   FastAPI, Python, Microservices  
+AI:        OpenAI GPT-4, Custom NLP Models
+Database:  MongoDB Atlas, Redis Caching
+Cloud:     AWS Multi-Region, Auto-scaling
 ```
 
-<br/>
+</td>
+<td width="40%">
 
-**Technology Strategist** with proven expertise in **AI-driven digital transformation** and **enterprise-grade solution architecture**. Specialized in developing intelligent platforms that deliver measurable business impact through innovative technology integration.
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="100%"/>
 
-### 🎯 **Strategic Value Proposition:**
-- 🚀 **Innovation Leadership:** Architecting AI-first solutions that drive competitive advantage
-- 🤖 **Technology Integration:** Seamlessly integrating cutting-edge AI with robust cloud infrastructure  
-- ☁️ **Scalable Architecture:** Designing enterprise-ready systems with global deployment capabilities
-- 🎙️ **Accessibility Innovation:** Creating inclusive technology solutions that expand market reach
-
-### 🌱 **Current Strategic Initiatives:** 
-Advanced AI Engineering, Enterprise System Design, Cloud Architecture Optimization, and Strategic Technology Planning
-
-### 💡 **Mission-Critical Focus:** 
-Delivering technology solutions that create sustainable competitive advantages while driving social impact and market expansion
-
----
-
-## 🏢 Business Impact & Strategic Capabilities
+#### 📈 **Business Impact**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=10B981&multiline=true&width=300&height=120&lines=Market%3A+%242.3B+Industry;Growth%3A+300%25+Participation;Efficiency%3A+70%25+Reduction;Scale%3A+10M%2B+Users" />
 
 <div align="center">
-
-### 💼 Enterprise Technology Portfolio
-![Digital Strategy](https://img.shields.io/badge/Digital_Strategy-Executive_Level-2E3192?style=for-the-badge&logoColor=white)
-![AI Leadership](https://img.shields.io/badge/AI_Leadership-Innovation_Driven-1BFFFF?style=for-the-badge&logoColor=black)
-![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-Enterprise_Scale-D4145A?style=for-the-badge&logoColor=white)
-
-### 🎯 Strategic Technology Domains
-
-#### 🤖 AI & Machine Learning Excellence
-![OpenAI](https://img.shields.io/badge/OpenAI_Enterprise-Strategic_Partnership-412991?style=for-the-badge&logo=openai&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP_Systems-Advanced_Implementation-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Voice AI](https://img.shields.io/badge/Voice_AI-Market_Leadership-4285F4?style=for-the-badge&logo=googleassistant&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/RAG_Architecture-Enterprise_Ready-00ADD8?style=for-the-badge&logo=ai&logoColor=white)
-
-#### ☁️ Cloud Infrastructure & DevOps
-![AWS](https://img.shields.io/badge/AWS_Enterprise-Strategic_Cloud_Partner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Serverless_Computing-Cost_Optimization-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Management-Scalable_Architecture-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
-![S3](https://img.shields.io/badge/Data_Storage-Global_CDN-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-
-#### 💻 Full-Stack Development Excellence
-![React](https://img.shields.io/badge/React.js-Enterprise_Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-Scalable_Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-AI_Integration-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-High_Performance-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-#### 🗄️ Data Management & Analytics
-![MongoDB](https://img.shields.io/badge/MongoDB-Document_Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-NoSQL_Scale-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_Databases-AI_Search-FF6B6B?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-## 📊 Enterprise Architecture & ROI Metrics
-
-<div align="center">
-
-### 🏗️ Enterprise Cloud Architecture
-| AWS Service | Strategic Business Value | ROI Impact |
-|-------------|-------------------------|------------|
-| **Lambda Functions** | Serverless cost optimization | 60% infrastructure cost reduction |
-| **API Gateway** | Scalable API management | 99.9% uptime guarantee |
-| **S3 + CloudFront** | Global content delivery | 40% faster load times worldwide |
-| **DynamoDB** | NoSQL scalability | Handles 10M+ requests/day |
-| **Cognito** | Enterprise authentication | Secure user management at scale |
-| **Amplify** | Rapid deployment pipeline | 80% faster time-to-market |
-
-### 🤖 AI Innovation Framework
-| Technology | Business Application | Market Advantage |
-|------------|---------------------|------------------|
-| **OpenAI GPT Integration** | Intelligent automation | 50% operational efficiency gain |
-| **Voice AI Systems** | Accessibility expansion | 300% broader market reach |
-| **NLP Processing** | Customer insight analytics | Data-driven decision making |
-| **RAG Architecture** | Knowledge management | Real-time information retrieval |
-| **Vector Databases** | Semantic search capabilities | Enhanced user experience |
-
-### 📈 Performance Metrics & KPIs
-| Metric | Achievement | Business Impact |
-|--------|-------------|-----------------|
-| **System Scalability** | 10M+ concurrent users | Enterprise-ready architecture |
-| **Response Time** | <200ms API latency | Superior user experience |
-| **Cost Efficiency** | 60% cloud cost optimization | Improved profit margins |
-| **Deployment Speed** | 80% faster releases | Competitive time-to-market |
-| **Security Compliance** | Enterprise-grade encryption | Risk mitigation & compliance |
-
-</div>
-
----
-
-## 🚀 Strategic Portfolio: Market-Leading Solutions
-
-<div align="center">
-
-### 🎙️ VAANI - AI-Powered Civic Engagement Platform
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Enterprise_Repository-181717?style=for-the-badge&logo=github)](https://github.com/roshan-1205/VAANI)
-![Market Impact](https://img.shields.io/badge/Market_Impact-Transformational-success?style=for-the-badge)
-![Innovation](https://img.shields.io/badge/Innovation_Level-Disruptive-yellow?style=for-the-badge)
-
-</div>
-
-**Revolutionary AI-first platform democratizing civic participation through voice technology - addressing a $2.3B global civic tech market**
-
-#### 🎯 Executive Business Case
-VAANI represents a paradigm shift in civic engagement, leveraging cutting-edge voice AI to eliminate digital literacy barriers and expand civic participation by 300%. This platform addresses critical market gaps in government-citizen communication while creating new revenue streams through SaaS licensing to municipal governments.
-
-#### 💼 Strategic Business Value
-- 🌍 **Market Expansion** - Captures underserved populations through voice-first accessibility
-- 📊 **Data Intelligence** - Provides governments with real-time civic sentiment analytics
-- 🔄 **Operational Efficiency** - Reduces manual processing costs by 70%
-- 🎯 **Competitive Moat** - First-mover advantage in AI-powered civic engagement
-- 💰 **Revenue Model** - B2G SaaS subscriptions with scalable pricing tiers
-
-#### ✨ Enterprise-Grade Features
-- 🗣️ **Advanced Voice AI** - Multi-language natural speech processing with 95% accuracy
-- 📍 **Geospatial Intelligence** - Real-time issue mapping with predictive analytics
-- 🔔 **Smart Notifications** - AI-driven priority routing and automated responses
-- 🔐 **Enterprise Security** - JWT authentication with government-grade encryption
-- 🧠 **Machine Learning** - Continuous improvement through NLP feedback loops
-- 📊 **Executive Dashboard** - Real-time KPIs and performance analytics
-- 🌐 **Global Scalability** - Multi-tenant architecture supporting millions of users
-
-#### 🏗️ Technology Architecture
-```
-AI Layer:       OpenAI GPT-4, Custom NLP Models, Voice Recognition
-Frontend:       React.js Enterprise, Progressive Web App
-Backend:        FastAPI, Python, Microservices Architecture
-Database:       MongoDB Atlas, Redis Caching
-Cloud:          AWS Multi-Region, Auto-scaling Infrastructure
-Security:       OAuth 2.0, JWT, End-to-end Encryption
-Analytics:      Real-time Data Pipeline, ML Insights
-```
-
-#### 📈 Business Metrics & ROI
-- **Target Market:** $2.3B civic tech industry
-- **User Acquisition:** 300% increase in civic participation
-- **Cost Reduction:** 70% decrease in manual processing
-- **Revenue Potential:** $50M ARR within 3 years
-- **Scalability:** Supports 10M+ concurrent users
-
-#### 🔗 Strategic Links
-- **Repository:** [github.com/roshan-1205/VAANI](https://github.com/roshan-1205/VAANI)
-- **Business Case:** Available upon executive request
-- **Demo Environment:** Enterprise sandbox available
-
----
-
-<div align="center">
-
-### 💜 HamariBeti - Women's Safety & Empowerment Ecosystem
-
-![Market Opportunity](https://img.shields.io/badge/Market_Size-$4.2B_Women_Safety-success?style=for-the-badge)
-![Social Impact](https://img.shields.io/badge/Social_Impact-Transformational-ff69b4?style=for-the-badge)
-![Enterprise Ready](https://img.shields.io/badge/Enterprise_Ready-B2B_SaaS-blue?style=for-the-badge)
-
-</div>
-
-**Comprehensive digital ecosystem addressing the $4.2B women's safety market through integrated technology solutions and community empowerment**
-
-#### 🎯 Strategic Market Position
-HamariBeti addresses critical gaps in women's safety infrastructure while creating sustainable business models through B2B enterprise sales to corporations, educational institutions, and government agencies. The platform combines emergency response, community building, and empowerment resources into a unified ecosystem.
-
-#### 💼 Enterprise Value Proposition
-- 🏢 **Corporate Partnerships** - Employee safety solutions for Fortune 500 companies
-- 🎓 **Educational Licensing** - Campus safety systems for universities and schools
-- 🏛️ **Government Contracts** - Municipal safety infrastructure partnerships
-- 📱 **Consumer Subscriptions** - Premium safety features and services
-- 🤝 **NGO Collaborations** - Social impact partnerships and CSR initiatives
-
-#### ✨ Mission-Critical Features
-- 🆔 **Government Integration** - Aadhaar-verified identity management system
-- 🔒 **Multi-Layer Security** - Enterprise-grade authentication and data protection
-- 🆘 **Emergency Response** - AI-powered threat detection and instant alert systems
-- 📱 **Real-time Communication** - Encrypted messaging with emergency contacts
-- 👥 **Community Networks** - Verified support groups and mentorship programs
-- 📚 **Resource Ecosystem** - Government scheme integration and empowerment tools
-- 🛡️ **Privacy Architecture** - Zero-knowledge security model with user control
-
-#### 🏗️ Enterprise Technology Stack
-```
-Security:       Multi-factor Authentication, Biometric Verification
-Frontend:       React Native, Cross-platform Mobile App
-Backend:        Node.js, Express.js, Microservices
-Database:       MongoDB Cluster, Encrypted Data Storage
-APIs:           Aadhaar Integration, SMS Gateway, Location Services
-Cloud:          AWS Enterprise, Multi-region Deployment
-Compliance:     GDPR, SOC 2, Government Data Protection Standards
-```
-
-#### 📊 Business Impact Metrics
-- **Addressable Market:** $4.2B women's safety technology sector
-- **Enterprise Clients:** Target 500+ corporate partnerships
-- **User Base:** 10M+ registered users within 24 months
-- **Response Time:** <30 seconds emergency alert delivery
-- **Revenue Streams:** SaaS subscriptions, enterprise licensing, premium services
-
-#### 🔗 Executive Access
-- **Business Plan:** Available for qualified investors
-- **Partnership Opportunities:** Enterprise sales team available
-- **Pilot Programs:** Beta testing with select corporate clients
-
----
-
-## 📊 Performance Analytics & Growth Metrics
-
-<div align="center">
-  <a href="https://github.com/roshan-1205">
+  <a href="https://github.com/roshan-1205/VAANI" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Explore_VAANI-FF6B6B?style=for-the-badge&logoColor=white&labelColor=black" alt="GitHub"/>
   </a>
 </div>
 
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 💜 **Vibely** - Modern Social Media Platform
+
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-1205&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,109,46,13,58,25&height=100&section=header&text=Vibely&fontSize=35&fontColor=fff&animation=blinking&stroke=fff&strokeWidth=1" width="100%"/>
+</div>
+
+<table>
+<tr>
+<td width="60%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF69B4&multiline=true&width=500&lines=Comprehensive+full-stack+platform;Real-time+messaging+%26+media+sharing;Modern+UI/UX+with+Next.js" />
+
+#### 🎯 **Core Features**
+- 🔐 **Multi-Authentication** - Email/Password + Google OAuth
+- 📱 **Real-time Posts** - Create, view, delete with media support
+- � **Live Messaging** - Socket.io real-time communication
+- 🎨 **Modern UI/UX** - Responsive design with Tailwind CSS
+- � **Email System** - Professional templates & notifications
+
+#### 🏗️ **Technology Stack**
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb,tailwind,typescript" />
+</a>
+
+```yaml
+Frontend:  Next.js 14, TypeScript, Tailwind CSS
+Backend:   Node.js, Express.js, Socket.io
+Database:  MongoDB Atlas, Mongoose ODM
+Auth:      JWT, Passport.js, Google OAuth
+UI:        shadcn/ui, Radix UI, Framer Motion
+```
+
+</td>
+<td width="40%">
+
+<img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617267696e672e676966" width="100%"/>
+
+#### 📊 **Platform Highlights**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=F59E0B&multiline=true&width=300&height=120&lines=Live+Demo%3A+Netlify+Deployed;Real-time%3A+Socket.io+Integration;Security%3A+JWT+%2B+OAuth;UI%3A+Modern+Component+Library" />
+
+<div align="center">
+  <a href="https://vibely12.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-10B981?style=for-the-badge&logoColor=white&labelColor=black" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/roshan-1205/VIBELY" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Repository-FF6B6B?style=for-the-badge&logoColor=white&labelColor=black" alt="Repository"/>
+  </a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Performance+Analytics;Development+Excellence;Continuous+Innovation" />
+
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/roshan-1205" target="_blank">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-1205&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=36BCF7&fire=F59E0B&currStreakLabel=E5E7EB&border_radius=10&card_width=400" alt="GitHub Streak"/>
+</a>
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/roshan-1205" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=roshan-1205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=36BCF7&text_color=E5E7EB&border_radius=10&card_width=400" alt="GitHub Stats"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/roshan-1205" target="_blank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan-1205&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=FF6B6B&line=36BCF7&point=F59E0B&area_color=10B981&title_color=E5E7EB&area=true&hide_border=true&radius=10" width="100%" alt="Activity Graph"/>
+</a>
 
 </div>
 
+### 🏆 **Achievement Showcase**
+
 <div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan-1205&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9" width="100%"/>
+
+<a href="https://github.com/roshan-1205" target="_blank">
+  <img src="https://github-profile-trophy.vercel.app/?username=roshan-1205&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+</a>
 
 </div>
+
+### 🐍 **Contribution Visualization**
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshan-1205/roshan-1205/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshan-1205/roshan-1205/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/roshan-1205/roshan-1205/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🐍 Contribution Activity
+## 🎓 Professional Development & Achievements
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshan-1205/roshan-1205/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshan-1205/roshan-1205/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/roshan-1205/roshan-1205/output/github-contribution-grid-snake.svg">
-  </picture>
 
-</div>
-
----
-
-## 🎓 Strategic Development & Continuous Innovation
-
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Excellence+in+Innovation;Strategic+Leadership;Measurable+Impact" />
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-### 🤖 AI Leadership Development
-![Advanced AI](https://img.shields.io/badge/Advanced_AI_Systems-Executive_Level-00D9FF?style=for-the-badge&logoColor=white)
-![Enterprise ML](https://img.shields.io/badge/Enterprise_ML-Strategic_Implementation-FF6B6B?style=for-the-badge&logoColor=white)
-![AI Governance](https://img.shields.io/badge/AI_Governance-Risk_Management-9D4EDD?style=for-the-badge&logoColor=white)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/trophy.gif?raw=true" width="80px">
+
+### 🏆 **Key Achievements**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=F59E0B&center=true&multiline=true&width=300&height=120&lines=🥇+Multiple+Hackathon+Wins;🚀+Enterprise+Deployments;📈+Proven+ROI+Results;🌍+Global+Solutions;💡+Innovation+Leadership" />
 
 </td>
 <td align="center" width="50%">
 
-### 🏗️ Enterprise Architecture
-![System Design](https://img.shields.io/badge/System_Design-Enterprise_Scale-00F5FF?style=for-the-badge&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-Cloud_Native-FF006E?style=for-the-badge&logoColor=white)
-![Performance](https://img.shields.io/badge/Performance_Optimization-ROI_Focused-8338EC?style=for-the-badge&logoColor=white)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/analytics.gif?raw=true" width="80px">
+
+### 📊 **Performance KPIs**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=36BCF7&center=true&multiline=true&width=300&height=120&lines=⚡+99.9%25+Uptime;💰+60%25+Cost+Reduction;😊+95%25+User+Satisfaction;📈+300%25+Market+Growth;🔄+4%2B+Annual+Releases" />
 
 </td>
 </tr>
+</table>
+
+### 🎯 **Current Focus Areas**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,14,30,25&height=80&section=header&text=Strategic%20Innovation%20Leadership&fontSize=24&fontColor=fff&animation=fadeIn" width="100%"/>
+
+</div>
+
+<p align="center">
+  <a href="https://openai.com" target="_blank">
+    <img src="https://img.shields.io/badge/🤖_AI_Innovation-Strategic_Leadership-FF6B6B?style=for-the-badge&logoColor=white&labelColor=black" alt="AI Innovation"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://img.shields.io/badge/☁️_Cloud_Architecture-Enterprise_Scale-36BCF7?style=for-the-badge&logoColor=white&labelColor=black" alt="Cloud Architecture"/>
+  </a>
+  <a href="https://github.com/roshan-1205?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/🏗️_System_Design-Scalable_Solutions-10B981?style=for-the-badge&logoColor=white&labelColor=black" alt="System Design"/>
+  </a>
+</p>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=E5E7EB&center=true&vCenter=true&width=900&lines=Driving+enterprise+AI+adoption+with+measurable+outcomes;Strategic+technology+leadership+%26+innovative+architecture;Creating+sustainable+competitive+advantages" />
+
+</div>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🤝 Let's Connect
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Let's+Build+the+Future+Together;Strategic+Partnerships+Welcome;Innovation+Collaboration" />
+
+<table>
 <tr>
-<td align="center" width="50%">
+<td align="center">
 
-### ☁️ Cloud Strategy & Innovation
-![AWS Leadership](https://img.shields.io/badge/AWS_Strategic_Partnership-Enterprise_Tier-FFD60A?style=for-the-badge&logoColor=black)
-![Serverless](https://img.shields.io/badge/Serverless_Strategy-Cost_Leadership-06FFA5?style=for-the-badge&logoColor=black)
-![Infrastructure](https://img.shields.io/badge/Infrastructure_Strategy-Scalable_Growth-FF5400?style=for-the-badge&logoColor=white)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="100px">
 
-</td>
-<td align="center" width="50%">
+### 📧 **Professional Contact**
+<a href="mailto:roshankumarsingh021@gmail.com" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=roshankumarsingh021%40gmail.com" />
+</a>
 
-### 📈 Business Intelligence
-![Data Strategy](https://img.shields.io/badge/Data_Strategy-Analytics_Driven-4CAF50?style=for-the-badge&logoColor=white)
-![Market Analysis](https://img.shields.io/badge/Market_Intelligence-Competitive_Edge-2196F3?style=for-the-badge&logoColor=white)
-![ROI Optimization](https://img.shields.io/badge/ROI_Optimization-Profit_Maximization-FF9800?style=for-the-badge&logoColor=white)
+### 🌐 **Professional Networks**
+<p>
+  <a href="https://www.linkedin.com/in/roshan-kumar-singh-9b9191299" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/roshan-1205" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/roshan-1205" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:roshankumarsingh021@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Email"/>
+  </a>
+</p>
+
+### 💼 **Collaboration Opportunities**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=10B981&center=true&multiline=true&width=400&height=140&lines=🤝+Strategic+Technology+Partnerships;🚀+AI+Innovation+Projects;🏗️+Enterprise+Solution+Architecture;🎤+Speaking+%26+Conferences;💰+Investment+%26+Business+Development" />
 
 </td>
 </tr>
@@ -327,100 +485,27 @@ Compliance:     GDPR, SOC 2, Government Data Protection Standards
 
 </div>
 
-<div align="center">
-
-**🎯 Strategic Focus Areas:**
-
-🤖 **AI Innovation Leadership** - Driving enterprise AI adoption with measurable business outcomes
-
-🏗️ **Scalable Architecture Design** - Building systems that support exponential growth
-
-☁️ **Cloud Cost Optimization** - Achieving 60% infrastructure cost reduction through strategic planning
-
-📊 **Data-Driven Decision Making** - Leveraging analytics for competitive advantage
-
-</div>
-
----
-
-## 🏆 Executive Achievements & Market Recognition
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-| 🎯 Strategic Milestone | 📊 Business Impact | 🏅 Market Position |
-|----------------------|-------------------|-------------------|
-| **AI Platform Development** | 300% user engagement increase | Industry innovation leader |
-| **Cloud Architecture Optimization** | 60% cost reduction achieved | AWS strategic partnership |
-| **Voice AI Implementation** | First-mover market advantage | Technology differentiation |
-| **Enterprise Security Standards** | 99.9% uptime guarantee | Compliance excellence |
-| **Scalable System Design** | 10M+ user capacity | Enterprise-ready infrastructure |
+### 💭 **Daily Inspiration**
 
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Quote"/>
 
-### 🎓 Professional Development & Industry Recognition
-- 🏅 **Technology Innovation Awards** - Multiple hackathon victories
-- 💻 **Industry Leadership** - Civic tech and social impact initiatives
-- 🚀 **Market Validation** - Successful enterprise-grade deployments
-- 📈 **Business Growth** - Proven ROI through technology optimization
-- 🌍 **Global Impact** - Solutions deployed across multiple markets
-
-### 📊 Key Performance Indicators
-- **System Reliability:** 99.9% uptime across all platforms
-- **Cost Efficiency:** 60% reduction in infrastructure costs
-- **User Satisfaction:** 95% positive feedback scores
-- **Market Penetration:** 300% increase in addressable market
-- **Innovation Rate:** 4+ major feature releases annually
-
----
-
-## 🤝 Executive Network & Strategic Partnerships
-
-<div align="center">
-
-[![Executive LinkedIn](https://img.shields.io/badge/LinkedIn-Executive_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-kumar-singh-9b9191299)
-[![GitHub Portfolio](https://img.shields.io/badge/GitHub-Technology_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshan-1205)
-[![Business Email](https://img.shields.io/badge/Email-Executive_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshankumar021@gmail.com)
-[![Technical Excellence](https://img.shields.io/badge/LeetCode-Algorithm_Mastery-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/roshan-1205)
-
-</div>
-
-<div align="center">
-
-### 📧 Executive Communication
-
-**For Strategic Partnerships & Business Opportunities**
-
-**Direct Executive Line:** roshankumarsingh021@gmail.com
-
-**LinkedIn Executive Profile:** [Roshan Kumar Singh - Technology Strategist](https://www.linkedin.com/in/roshan-kumar-singh-9b9191299)
-
-**Investment & Partnership Inquiries:** Available for qualified discussions
-
-**Speaking Engagements:** Technology conferences and executive forums
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Leadership Philosophy
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 💡 *"Innovation distinguishes between a leader and a follower."* – Steve Jobs
 
-### ⭐ From [Roshan Kumar Singh](https://github.com/roshan-1205) - Technology Strategist & AI Innovation Leader
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=E5E7EB&center=true&vCenter=true&width=700&lines=Transforming+ideas+into+scalable+solutions;Creating+lasting+impact+through+technology;Building+the+future%2C+one+innovation+at+a+time" />
 
-**Driving digital transformation through strategic technology leadership and AI innovation**
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4145A&height=120&section=footer" width="100%"/>
+⭐ **From [Roshan Kumar Singh](https://github.com/roshan-1205)** - Technology Strategist & AI Innovation Leader
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
