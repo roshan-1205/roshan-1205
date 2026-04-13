@@ -215,25 +215,6 @@
 
 ### 📊 **Technology Impact Matrix**
 
-<table>
-<tr>
-<td width="50%">
-<div align="center">
-<a href="https://github.com/roshan-1205" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshan-1205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=36BCF7&text_color=E5E7EB&border_radius=10&card_width=400" alt="GitHub Stats"/>
-</a>
-</div>
-</td>
-<td width="50%">
-<div align="center">
-<a href="https://github.com/roshan-1205" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-1205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=E5E7EB&border_radius=10" width="100%" alt="Top Languages"/>
-</a>
-</div>
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 | **Service** | **Business Value** | **ROI Impact** |
