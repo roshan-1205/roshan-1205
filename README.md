@@ -248,7 +248,7 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 </td>
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200"/>
+<img src="https://images.squarespace-cdn.com/content/v1/5e59eefe0e4624584d852c64/de039f25-73da-4743-8bb5-ee01a9ccd244/giphy.gif"  width="200"/>
 
 #### 📊 **Platform Highlights**
 - **Live Demo:** Netlify Deployed
