@@ -334,7 +334,7 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=F59E0B&multiline=true&width=300&height=120&lines=Live+Demo%3A+Netlify+Deployed;Real-time%3A+Socket.io+Integration;Security%3A+JWT+%2B+OAuth;UI%3A+Modern+Component+Library" />
 
 <div align="center">
-  <a href="https://vibely12.netlify.app" target="_blank">
+  <a href="https://vibely-frontend-orpin.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-10B981?style=for-the-badge&logoColor=white&labelColor=black" alt="Live Demo"/>
   </a>
   <a href="https://github.com/roshan-1205/VIBELY" target="_blank">
