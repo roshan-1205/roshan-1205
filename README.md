@@ -1,257 +1,176 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=320&section=header&text=Roshan%20Kumar%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Technology%20Strategist%20•%20AI%20Innovation%20Leader%20•%20Digital%20Transformation%20Expert&descAlignY=55&descAlign=50&stroke=fff&strokeWidth=1" width="100%"/>
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&text=ROSHAN%20KUMAR%20SINGH&fontSize=40&fontColor=FFFFFF&animation=blinking&fontAlignY=55&desc=Technology%20Strategist%20•%20AI%20Innovation%20Leader%20•%20Digital%20Transformation%20Expert&descSize=16&descAlignY=75" width="100%"/>
 
+<!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Cool+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%7C+AI+Architect;React+•+Node.js+•+Python+•+AWS;Building+Scalable+Enterprise+Solutions;Transforming+Ideas+into+Reality" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<!-- PROFILE STATS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roshan-1205&color=blueviolet&style=for-the-badge&label=Profile+Views&labelColor=black" alt="Profile Views"/>
-  <a href="https://github.com/roshan-1205?tab=followers">
-    <img src="https://img.shields.io/github/followers/roshan-1205?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/roshan-1205?tab=repositories">
-    <img src="https://img.shields.io/github/stars/roshan-1205?label=Stars&style=for-the-badge&color=yellow&labelColor=black" alt="GitHub Stars"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=roshan-1205&style=plastic&color=FF6B6B&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/roshan-1205?style=plastic&color=4ECDC4&labelColor=FF6B6B&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/roshan-1205?style=plastic&color=45B7D1&labelColor=4ECDC4&label=STARS" alt="Stars" />
+  <img src="https://img.shields.io/badge/STATUS-Available%20for%20Hire-brightgreen?style=plastic&color=96CEB4&labelColor=45B7D1" alt="Status" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<!-- ABOUT SECTION -->
 <div align="center">
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> **ABOUT ME**
+
 <table>
 <tr>
-<td width="60%">
+<td width="40%" align="center">
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=F75C7E&multiline=true&width=600&height=100&lines=Passionate+Technology+Leader;AI-Driven+Solutions+Expert;Enterprise+Architecture+Specialist" />
-</div>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="100%" style="border-radius: 10px;"/>
 
-**Transforming complex business challenges into scalable, intelligent systems that drive measurable impact across global markets.**
+<br/><br/>
 
-### 🎯 **Core Expertise**
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,aws,mongodb,docker,kubernetes,tensorflow" />
-</div>
-
-- 🤖 **AI & Machine Learning** - Advanced NLP, Voice AI, RAG Systems
-- ☁️ **Cloud Architecture** - AWS, Serverless, Microservices  
-- 🚀 **Full-Stack Development** - React, Node.js, Python, FastAPI
-- 📊 **Data Engineering** - MongoDB, DynamoDB, Vector Databases
-- 🏗️ **System Design** - Scalable, secure, enterprise-grade solutions
-
-### 🌟 **Mission**
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=36BCF7&width=500&lines=Democratizing+technology+access;Creating+positive+social+impact;Delivering+exceptional+business+value" />
-</div>
-
-### 📍 **Location & Education**
-- 🇮🇳 Based in India
-- 🎓 B.Tech in Computer Science Engineering  
-- 🌱 Continuously learning: Advanced AI Engineering & Cloud Architecture
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=16&duration=2500&pause=800&color=FF6B6B&center=true&multiline=true&width=300&height=120&lines=const+developer+%3D+%7B;++name%3A+%22Roshan%22%2C;++role%3A+%22Tech+Leader%22%2C;++passion%3A+%22Innovation%22;%7D%3B" alt="Code Block" />
 
 </td>
-<td width="40%">
+<td width="60%" align="center">
 
-<div align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" alt="Coding Animation"/>
-</div>
+### 👋 **Hello, I'm Roshan Kumar Singh!**
 
-### 📊 **Quick Stats**
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=800&color=FF6B6B&multiline=true&width=300&height=120&lines=const+profile+%3D+%7B;++experience%3A+%22Enterprise%22%2C;++focus%3A+%22AI+Innovation%22%2C;++architecture%3A+%22Cloud-Native%22%2C;++impact%3A+%22Social+%2B+Business%22;%7D%3B" />
-</div>
+> **Transforming complex business challenges into scalable, intelligent systems that drive measurable impact across global markets.**
+
+<br/>
+
+### 🎯 **Core Expertise**
+
+```javascript
+const expertise = {
+  ai_ml: ["Advanced NLP", "Voice AI", "RAG Systems"],
+  cloud: ["AWS", "Serverless", "Microservices"],
+  fullstack: ["React", "Node.js", "Python", "FastAPI"],
+  data: ["MongoDB", "DynamoDB", "Vector Databases"],
+  architecture: ["Scalable", "Secure", "Enterprise-grade"]
+};
+```
+
+### 🌟 **Mission Statement**
+Democratizing technology access and creating positive social impact through innovative solutions.
+
+### 📍 **Profile**
+- 🇮🇳 **Location:** India
+- 🎓 **Education:** B.Tech in Computer Science Engineering
+- 🌱 **Currently Learning:** Advanced AI Engineering & Cloud Architecture
+- 💼 **Focus:** AI Innovation, Cloud Architecture, System Design
 
 </td>
 </tr>
 </table>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
 ---
 
-## 🛠️ Technology Stack
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<!-- TECH STACK -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Advanced+Technology+Arsenal;Enterprise-Grade+Solutions;Cutting-Edge+Innovation" />
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **TECHNOLOGY STACK**
+
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=22&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Advanced+Technology+Arsenal;Enterprise-Grade+Solutions;Cutting-Edge+Innovation" alt="Tech Header" />
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" align="center">
 
 ### 🤖 **AI & Machine Learning**
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-  </a>
-  <a href="https://openai.com" target="_blank">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=black" alt="OpenAI"/>
-  </a>
-  <a href="https://huggingface.co" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=black" alt="Hugging Face"/>
-  </a>
-  <a href="https://langchain.com" target="_blank">
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=black" alt="LangChain"/>
-  </a>
-</p>
-
-### ☁️ **Cloud & Infrastructure**
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" />
-  </a>
-  <a href="https://serverless.com" target="_blank">
-    <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white&labelColor=black" alt="Serverless"/>
-  </a>
-  <a href="https://aws.amazon.com/cloudformation/" target="_blank">
-    <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black" alt="CloudFormation"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <br/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
 </p>
 
 ### 💻 **Development & Frameworks**
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" alt="TypeScript"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,typescript" />
 </p>
 
 ### 🗄️ **Databases & Storage**
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
-  </a>
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank">
-    <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white&labelColor=black" alt="DynamoDB"/>
-  </a>
-  <a href="https://www.pinecone.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=black" alt="Pinecone"/>
-  </a>
-  <a href="https://www.trychroma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logoColor=white&labelColor=black" alt="ChromaDB"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
+  <br/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white" alt="Pinecone"/>
+</p>
+
+</td>
+<td width="50%" align="center">
+
+### ☁️ **Cloud & Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" />
+  <br/>
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" alt="Serverless"/>
 </p>
 
 ### 🔧 **DevOps & Tools**
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,grafana" />
-  </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=black" alt="GitHub Actions"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins" />
+  <br/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
-<a href="https://github.com/roshan-1205" target="_blank">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack+Mastery&titleColor=FF6B6B&lineCount=3&theme=github_dark&bg=0D1117&badge=FF6B6B&border=30363D&titleSize=20&descSize=14&width=800&fontSize=14&radius=10" />
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🏗️ Architecture & Performance Metrics
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Enterprise+Performance+Excellence;Scalable+Architecture+Design;Mission-Critical+Reliability" />
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="50px">
-</div>
-
-### ☁️ **Cloud Excellence**
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=36BCF7&center=true&multiline=true&width=200&height=80&lines=60%25+Cost+Reduction;99.9%25+Uptime;10M%2B+Users" />
-</div>
-
-</td>
-<td align="center" width="33%">
-
-<div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/rocket.gif?raw=true" width="50px">
-</div>
-
-### 🚀 **Performance**
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF6B6B&center=true&multiline=true&width=200&height=80&lines=%3C200ms+Response;80%25+Faster+Deploy;300%25+Growth" />
-</div>
-
-</td>
-<td align="center" width="33%">
-
-<div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/shield.gif?raw=true" width="50px">
-</div>
-
-### 🔒 **Security**
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=10B981&center=true&multiline=true&width=200&height=80&lines=Enterprise+Grade;Gov+Compliance;Zero-Knowledge" />
-</div>
+### 📊 **Performance Metrics**
+<p>
+  <img src="https://img.shields.io/badge/Response_Time-<200ms-FF6B6B?style=flat-square" alt="Response Time"/>
+  <img src="https://img.shields.io/badge/Uptime-99.9%25-4ECDC4?style=flat-square" alt="Uptime"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Cost_Reduction-60%25-45B7D1?style=flat-square" alt="Cost Reduction"/>
+  <img src="https://img.shields.io/badge/Users-10M+-96CEB4?style=flat-square" alt="Users"/>
+</p>
 
 </td>
 </tr>
 </table>
 
-### 📊 **Technology Impact Matrix**
-
-<div align="center">
-
-| **Service** | **Business Value** | **ROI Impact** |
-|-------------|-------------------|----------------|
-| 🚀 **AWS Lambda** | Serverless optimization | **60%** cost reduction |
-| 🌐 **API Gateway** | Scalable management | **99.9%** uptime |
-| 🤖 **AI Integration** | Intelligent automation | **50%** efficiency gain |
-| 🎙️ **Voice AI** | Accessibility expansion | **300%** market reach |
-| ☁️ **Cloud Architecture** | Global scalability | **10M+** concurrent users |
-
 </div>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
 ---
 
-## 🚀 Featured Projects
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<!-- FEATURED PROJECTS -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&lines=Revolutionary+AI+Solutions;Enterprise-Grade+Platforms;Market-Leading+Innovation" />
-</div>
 
-### 🎙️ **VAANI** - AI-Powered Civic Engagement Platform
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **FEATURED PROJECTS**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6,17,13,4&height=100&section=header&text=VAANI&fontSize=40&fontColor=fff&animation=twinkling&stroke=fff&strokeWidth=1" width="100%"/>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=20&duration=4000&pause=1000&color=45B7D1&center=true&vCenter=true&width=700&lines=Revolutionary+AI+Solutions;Enterprise-Grade+Platforms;Market-Leading+Innovation" alt="Projects Header" />
+
+<br/>
+
+<!-- PROJECT 1: VAANI -->
+<table>
+<tr>
+<td width="100%" align="center">
+
+### 🎙️ **VAANI - AI-Powered Civic Engagement Platform**
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&multiline=true&width=500&lines=Revolutionary+voice-first+platform;Democratizing+civic+participation;AI+technology+at+its+finest" />
+**Revolutionary voice-first platform democratizing civic participation through advanced AI technology.**
 
 #### 🎯 **Key Features**
 - 🗣️ **Advanced Voice AI** - Multi-language processing with **95%** accuracy
@@ -261,10 +180,6 @@
 - 📊 **Analytics Dashboard** - Real-time insights and KPIs
 
 #### 🏗️ **Technology Stack**
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react,python,mongodb,aws,docker" />
-</a>
-
 ```yaml
 Frontend:  React.js, Progressive Web App
 Backend:   FastAPI, Python, Microservices  
@@ -274,49 +189,53 @@ Cloud:     AWS Multi-Region, Auto-scaling
 ```
 
 </td>
-<td width="40%">
+<td width="35%" align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="100%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="200"/>
 
 #### 📈 **Business Impact**
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=10B981&multiline=true&width=300&height=120&lines=Market%3A+%242.3B+Industry;Growth%3A+300%25+Participation;Efficiency%3A+70%25+Reduction;Scale%3A+10M%2B+Users" />
+- **Market:** $2.3B Industry
+- **Growth:** 300% Participation
+- **Efficiency:** 70% Reduction
+- **Scale:** 10M+ Users
 
-<div align="center">
-  <a href="https://github.com/roshan-1205/VAANI" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Explore_VAANI-FF6B6B?style=for-the-badge&logoColor=white&labelColor=black" alt="GitHub"/>
-  </a>
-</div>
+<br/>
+
+<a href="https://github.com/roshan-1205/VAANI">
+  <img src="https://img.shields.io/badge/🚀_Explore_VAANI-FF6B6B?style=for-the-badge&logoColor=white" alt="GitHub"/>
+</a>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</td>
+</tr>
+</table>
 
-### 💜 **Vibely** - Modern Social Media Platform
+<br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,109,46,13,58,25&height=100&section=header&text=Vibely&fontSize=35&fontColor=fff&animation=blinking&stroke=fff&strokeWidth=1" width="100%"/>
-</div>
+<!-- PROJECT 2: VIBELY -->
+<table>
+<tr>
+<td width="100%" align="center">
+
+### 💜 **Vibely - Modern Social Media Platform**
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF69B4&multiline=true&width=500&lines=Comprehensive+full-stack+platform;Real-time+messaging+%26+media+sharing;Modern+UI/UX+with+Next.js" />
+**Comprehensive full-stack platform with real-time messaging, media sharing, and modern UI/UX built with Next.js.**
 
 #### 🎯 **Core Features**
 - 🔐 **Multi-Authentication** - Email/Password + Google OAuth
 - 📱 **Real-time Posts** - Create, view, delete with media support
-- � **Live Messaging** - Socket.io real-time communication
+- 💬 **Live Messaging** - Socket.io real-time communication
 - 🎨 **Modern UI/UX** - Responsive design with Tailwind CSS
-- � **Email System** - Professional templates & notifications
+- 📧 **Email System** - Professional templates & notifications
 
 #### 🏗️ **Technology Stack**
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb,tailwind,typescript" />
-</a>
-
 ```yaml
 Frontend:  Next.js 14, TypeScript, Tailwind CSS
 Backend:   Node.js, Express.js, Socket.io
@@ -326,217 +245,303 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 ```
 
 </td>
-<td width="40%">
+<td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200"/>
 
 #### 📊 **Platform Highlights**
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=F59E0B&multiline=true&width=300&height=120&lines=Live+Demo%3A+Netlify+Deployed;Real-time%3A+Socket.io+Integration;Security%3A+JWT+%2B+OAuth;UI%3A+Modern+Component+Library" />
+- **Live Demo:** Netlify Deployed
+- **Real-time:** Socket.io Integration
+- **Security:** JWT + OAuth
+- **UI:** Modern Component Library
 
-<div align="center">
-  <a href="https://vibely-frontend-orpin.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-10B981?style=for-the-badge&logoColor=white&labelColor=black" alt="Live Demo"/>
-  </a>
-  <a href="https://github.com/roshan-1205/VIBELY" target="_blank">
-    <img src="https://img.shields.io/badge/📂_Repository-FF6B6B?style=for-the-badge&logoColor=white&labelColor=black" alt="Repository"/>
-  </a>
-</div>
+<br/>
+
+<a href="https://vibely-frontend-orpin.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-4ECDC4?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+</a>
+<a href="https://github.com/roshan-1205/VIBELY">
+  <img src="https://img.shields.io/badge/📂_Repository-45B7D1?style=for-the-badge&logoColor=white" alt="Repository"/>
+</a>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Analytics
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
+---
+
+<br/>
+
+<!-- PERFORMANCE METRICS -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Performance+Analytics;Development+Excellence;Continuous+Innovation" />
+## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35"> **PERFORMANCE EXCELLENCE**
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="60px"/>
+  <h3>⚡ Performance</h3>
+  <p><strong>&lt;200ms</strong> Response Time<br/>
+  <strong>80%</strong> Faster Deployment<br/>
+  <strong>300%</strong> Growth Rate</p>
+</td>
+<td align="center" width="25%">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/shield.gif?raw=true" width="60px"/>
+  <h3>🔒 Security</h3>
+  <p><strong>Enterprise</strong> Grade<br/>
+  <strong>Government</strong> Compliance<br/>
+  <strong>Zero-Knowledge</strong> Architecture</p>
+</td>
+<td align="center" width="25%">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/rocket.gif?raw=true" width="60px"/>
+  <h3>🚀 Scalability</h3>
+  <p><strong>99.9%</strong> Uptime<br/>
+  <strong>10M+</strong> Concurrent Users<br/>
+  <strong>60%</strong> Cost Reduction</p>
+</td>
+<td align="center" width="25%">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/analytics.gif?raw=true" width="60px"/>
+  <h3>📈 Impact</h3>
+  <p><strong>$2.3B</strong> Market Size<br/>
+  <strong>95%</strong> User Satisfaction<br/>
+  <strong>50%</strong> Efficiency Gain</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- GITHUB ANALYTICS -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GITHUB ANALYTICS**
+
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&duration=4000&pause=1000&color=96CEB4&center=true&vCenter=true&width=600&lines=Performance+Analytics;Development+Excellence;Continuous+Innovation" alt="Analytics Header" />
+
+</div>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%">
-<div align="center">
-<a href="https://github.com/topics/readme-stats" target="_blank">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-1205&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=36BCF7&fire=F59E0B&currStreakLabel=E5E7EB&border_radius=10&card_width=400" alt="GitHub Streak"/>
-</a>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=roshan-1205&show_icons=true&theme=vue&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff&border_radius=10" alt="GitHub Stats" width="100%"/>
 </td>
-<div align="center">
-<a href="https://github.com/topics/readme-stats" target="_blank">
-</a>
-</div>
+<td width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-1205&theme=vue&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=45B7D1&currStreakLabel=ffffff&border_radius=10" alt="GitHub Streak" width="100%"/>
+</td>
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
-<a href="https://github.com/topics/readme-stats" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan-1205&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=FF6B6B&line=36BCF7&point=F59E0B&area_color=10B981&title_color=E5E7EB&area=true&hide_border=true&radius=10" width="100%" alt="Activity Graph"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-1205&layout=compact&theme=vue&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff&border_radius=10" alt="Top Languages" width="50%"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan-1205&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area_color=96CEB4&title_color=ffffff&area=true&hide_border=true&radius=10" width="100%" alt="Activity Graph"/>
 </div>
 
-### 🏆 **Achievement Showcase**
+<br/>
 
-<h3 align="center">🏆 Achievement Showcase</h3>
+---
 
+<br/>
+
+<!-- ACHIEVEMENTS -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="35"> **PROFESSIONAL ACHIEVEMENTS**
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="120"/>
+  <h3>🚀 Project Excellence</h3>
+  <p>
+    ✅ Built VAANI Platform<br/>
+    ✅ Full Stack Vibely<br/>
+    ✅ Real-time Features<br/>
+    ✅ Clean UI/UX Design
+  </p>
+</td>
+<td align="center" width="33%">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/trophy.gif?raw=true" width="80px"/>
+  <h3>🏅 Recognition</h3>
+  <p>
+    🎓 Web Development Certified<br/>
+    🏆 Hackathon Participant<br/>
+    🎯 Trillx 1.0 Event<br/>
+    💡 Innovation Leader
+  </p>
+</td>
+<td align="center" width="33%">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/analytics.gif?raw=true" width="80px"/>
+  <h3>⚡ Impact Metrics</h3>
+  <p>
+    📊 99.9% Uptime<br/>
+    💰 60% Cost Reduction<br/>
+    📈 300% Growth<br/>
+    👥 10M+ Users
+  </p>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- PROFESSIONAL DEVELOPMENT -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **PROFESSIONAL DEVELOPMENT**
+
+### 🎯 **Current Focus Areas**
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/🤖_AI_Innovation-Strategic_Leadership-FF6B6B?style=for-the-badge&logoColor=white" alt="AI Innovation"/>
+  <p>Driving enterprise AI adoption with measurable outcomes</p>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/☁️_Cloud_Architecture-Enterprise_Scale-4ECDC4?style=for-the-badge&logoColor=white" alt="Cloud Architecture"/>
+  <p>Strategic technology leadership & innovative architecture</p>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/🏗️_System_Design-Scalable_Solutions-45B7D1?style=for-the-badge&logoColor=white" alt="System Design"/>
+  <p>Creating sustainable competitive advantages</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- CONTACT SECTION -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **LET'S CONNECT**
+
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=22&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Let's+Build+the+Future+Together;Strategic+Partnerships+Welcome;Innovation+Collaboration" alt="Connect Header" />
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="300" style="border-radius: 10px;"/>
+
+### 📧 **Professional Contact**
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=16&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=350&lines=roshankumarsingh021%40gmail.com" alt="Email" />
+
+### 💼 **Collaboration Opportunities**
 <p align="center">
-  <img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="250"/>
+🤝 Strategic Technology Partnerships<br/>
+🚀 AI Innovation Projects<br/>
+🏗️ Enterprise Solution Architecture<br/>
+🎤 Speaking & Conferences<br/>
+💰 Investment & Business Development
 </p>
 
+</td>
+<td width="50%" align="center">
+
+### 🌐 **Professional Networks**
 <p align="center">
-  🚀 Built <b>Vibely</b> – Full Stack Social Platform <br>
-  💻 Web Development Certified <br>
-  🏅 Hackathon Participant (Trillx 1.0) <br>
-  ⚡ Real-time Features & Clean UI
+  <a href="https://www.linkedin.com/in/roshan-kumar-singh-9b9191299">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/roshan-1205">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+<p align="center">
+  <a href="https://leetcode.com/roshan-1205">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="mailto:roshankumarsingh021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+### 🎯 **Open to Opportunities**
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=14&duration=3000&pause=1000&color=45B7D1&center=true&multiline=true&width=300&lines=Full-time+Positions;Freelance+Projects;Technical+Consulting;Startup+Collaborations" alt="Opportunities" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Response_Time-Within_24hrs-96CEB4?style=for-the-badge&logoColor=white" alt="Response Time"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
 
 ### 🐍 **Contribution Visualization**
 
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshan-1205/roshan-1205/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshan-1205/roshan-1205/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/roshan-1205/roshan-1205/output/github-contribution-grid-snake.svg">
 </picture>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
 ---
 
-## 🎓 Professional Development & Achievements
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Excellence+in+Innovation;Strategic+Leadership;Measurable+Impact" />
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/trophy.gif?raw=true" width="80px">
-</div>
-
-### 🏆 **Key Achievements**
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=F59E0B&center=true&multiline=true&width=300&height=120&lines=🥇+Multiple+Hackathon+Wins;🚀+Enterprise+Deployments;📈+Proven+ROI+Results;🌍+Global+Solutions;💡+Innovation+Leadership" />
-</div>
-
-</td>
-<td align="center" width="50%">
-
-<div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/analytics.gif?raw=true" width="80px">
-</div>
-
-### 📊 **Performance KPIs**
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=36BCF7&center=true&multiline=true&width=300&height=120&lines=⚡+99.9%25+Uptime;💰+60%25+Cost+Reduction;😊+95%25+User+Satisfaction;📈+300%25+Market+Growth;🔄+4%2B+Annual+Releases" />
-</div>
-
-</td>
-</tr>
-</table>
-
-### 🎯 **Current Focus Areas**
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,14,30,25&height=80&section=header&text=Strategic%20Innovation%20Leadership&fontSize=24&fontColor=fff&animation=fadeIn" width="100%"/>
-</div>
-
-<p align="center">
-  <a href="https://openai.com" target="_blank">
-    <img src="https://img.shields.io/badge/🤖_AI_Innovation-Strategic_Leadership-FF6B6B?style=for-the-badge&logoColor=white&labelColor=black" alt="AI Innovation"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://img.shields.io/badge/☁️_Cloud_Architecture-Enterprise_Scale-36BCF7?style=for-the-badge&logoColor=white&labelColor=black" alt="Cloud Architecture"/>
-  </a>
-  <a href="https://github.com/roshan-1205?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/🏗️_System_Design-Scalable_Solutions-10B981?style=for-the-badge&logoColor=white&labelColor=black" alt="System Design"/>
-  </a>
-</p>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=E5E7EB&center=true&vCenter=true&width=900&lines=Driving+enterprise+AI+adoption+with+measurable+outcomes;Strategic+technology+leadership+%26+innovative+architecture;Creating+sustainable+competitive+advantages" />
-</div>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🤝 Let's Connect
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Let's+Build+the+Future+Together;Strategic+Partnerships+Welcome;Innovation+Collaboration" />
-
-<table>
-<tr>
-<td align="center">
-
-<div align="center">
-<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="600"/>
-</div>
-
-### 📧 **Professional Contact**
-<div align="center">
-<a href="mailto:roshankumarsingh021@gmail.com" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=roshankumarsingh021%40gmail.com" />
-</a>
-</div>
-
-### 🌐 **Professional Networks**
-<p align="center">
-  <a href="https://www.linkedin.com/in/roshan-kumar-singh-9b9191299" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/roshan-1205" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/roshan-1205" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="LeetCode"/>
-  </a>
-  <a href="mailto:roshankumarsingh021@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Email"/>
-  </a>
-</p>
-
-### 💼 **Collaboration Opportunities**
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=10B981&center=true&multiline=true&width=400&height=140&lines=🤝+Strategic+Technology+Partnerships;🚀+AI+Innovation+Projects;🏗️+Enterprise+Solution+Architecture;🎤+Speaking+%26+Conferences;💰+Investment+%26+Business+Development" />
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<!-- FOOTER -->
 <div align="center">
 
 ### 💭 **Daily Inspiration**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Quote"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue&border=true" alt="Quote"/>
 
 ### 💡 *"Innovation distinguishes between a leader and a follower."* – Steve Jobs
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=E5E7EB&center=true&vCenter=true&width=700&lines=Transforming+ideas+into+scalable+solutions;Creating+lasting+impact+through+technology;Building+the+future%2C+one+innovation+at+a+time" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=16&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Transforming+ideas+into+scalable+solutions;Creating+lasting+impact+through+technology;Building+the+future%2C+one+innovation+at+a+time" alt="Mission" />
 
 <br/>
 
@@ -544,9 +549,6 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF6B6B,50:4ECDC4,100:45B7D1&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-
-
-
