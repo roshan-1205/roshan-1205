@@ -3,10 +3,11 @@
 <!-- HERO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&text=ROSHAN%20KUMAR%20SINGH&fontSize=40&fontColor=FFFFFF&animation=blinking&fontAlignY=55&desc=Technology%20Strategist%20•%20AI%20Innovation%20Leader%20•%20Digital%20Transformation%20Expert&descSize=16&descAlignY=75" width="100%"/>
 
-<!-- ANIMATED TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%7C+AI+Architect;React+•+Node.js+•+Python+•+AWS;Building+Scalable+Enterprise+Solutions;Transforming+Ideas+into+Reality" alt="Typing SVG" />
-</p>
+<br/>
+
+---
+
+<br/>
 
 <!-- PROFILE STATS -->
 <p align="center">
@@ -288,7 +289,6 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="60px"/>
   <h3>⚡ Performance</h3>
   <p><strong>&lt;200ms</strong> Response Time<br/>
   <strong>80%</strong> Faster Deployment<br/>
@@ -333,16 +333,11 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&duration=4000&pause=1000&color=96CEB4&center=true&vCenter=true&width=600&lines=Performance+Analytics;Development+Excellence;Continuous+Innovation" alt="Analytics Header" />
 
-</div>
-
 <br/>
 
 <table>
 <tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshan-1205&show_icons=true&theme=vue&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff&border_radius=10" alt="GitHub Stats" width="100%"/>
-</td>
-<td width="50%">
+<td width="50%" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-1205&theme=vue&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=45B7D1&currStreakLabel=ffffff&border_radius=10" alt="GitHub Streak" width="100%"/>
 </td>
 </tr>
@@ -350,14 +345,14 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-1205&layout=compact&theme=vue&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff&border_radius=10" alt="Top Languages" width="50%"/>
-</div>
+---
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan-1205&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area_color=96CEB4&title_color=ffffff&area=true&hide_border=true&radius=10" width="100%" alt="Activity Graph"/>
+</div>
+
 </div>
 
 <br/>
@@ -535,11 +530,7 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 <!-- FOOTER -->
 <div align="center">
 
-### 💭 **Daily Inspiration**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue&border=true" alt="Quote"/>
-
-### 💡 *"Innovation distinguishes between a leader and a follower."* – Steve Jobs
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=16&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Transforming+ideas+into+scalable+solutions;Creating+lasting+impact+through+technology;Building+the+future%2C+one+innovation+at+a+time" alt="Mission" />
 
