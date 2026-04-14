@@ -369,8 +369,7 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 <table>
 <tr>
 <td align="center" width="33%">
-  <img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="120"/>
-  <h3>🚀 Project Excellence</h3>
+  <h3>Project Excellence</h3>
   <p>
     ✅ Built VAANI Platform<br/>
     ✅ Full Stack Vibely<br/>
@@ -380,7 +379,7 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 </td>
 <td align="center" width="33%">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/trophy.gif?raw=true" width="80px"/>
-  <h3>🏅 Recognition</h3>
+  <h3>Recognition</h3>
   <p>
     🎓 Web Development Certified<br/>
     🏆 Hackathon Participant<br/>
@@ -390,7 +389,7 @@ UI:        shadcn/ui, Radix UI, Framer Motion
 </td>
 <td align="center" width="33%">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/analytics.gif?raw=true" width="80px"/>
-  <h3>⚡ Impact Metrics</h3>
+  <h3>Impact Metrics</h3>
   <p>
     📊 99.9% Uptime<br/>
     💰 60% Cost Reduction<br/>
