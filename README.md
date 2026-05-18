@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="1440" height="500" alt="image" src="https://github.com/user-attachments/assets/d7993de2-cab5-45ad-a009-9eca1d1d6e53" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&text=ROSHAN%20KUMAR%20SINGH&fontSize=40&fontColor=FFFFFF&animation=blinking&fontAlignY=55&desc=Technology%20Strategist%20•%20AI%20Innovation%20Leader%20•%20Digital%20Transformation%20Expert&descSize=16&descAlignY=75" width="100%"/>
 
 
 <br/>
