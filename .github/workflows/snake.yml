@@ -1,14 +1,9 @@
-name: Generate Snake Animation
+name: Generate Profile Assets
 
 on:
-  # Run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *"
-  
-  # Allows manual trigger from the Actions tab
   workflow_dispatch:
-  
-  # Run on every push to main branch
   push:
     branches:
       - main
@@ -18,15 +13,13 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
+    timeout-minutes: 10
+
     steps:
-      # Checkout the repository
       - name: Checkout repository
-        uses: actions/checkout@v3
-      
-      # Generate the snake animation
-      - name: Generate github-contribution-grid-snake.svg
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: roshan-1205
@@ -35,12 +28,35 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      # Push the generated files to the output branch
-      - name: Push github-contribution-grid-snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      - name: Generate GitHub stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=roshan-1205&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F4F4F5&text_color=94A3B8&icon_color=3B82F6&border_radius=10&include_all_commits=false&count_private=false
+          path: dist/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=roshan-1205&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F4F4F5&text_color=94A3B8&border_radius=10&langs_count=6&exclude_repo=github-readme-stats
+          path: dist/github-top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub streak card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=roshan-1205&theme=dark&hide_border=true&background=0D1117&stroke=161B22&ring=3B82F6&fire=635BFF&currStreakLabel=F4F4F5&sideLabels=94A3B8&dates=94A3B8&border_radius=10
+          path: dist/github-streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push assets to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
