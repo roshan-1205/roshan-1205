@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://avatars.githubusercontent.com/u/204306799?v=4" width="120" style="border-radius: 50%; border: 3px solid #3B82F6;" alt="Roshan Kumar Singh" />
+<img src="https://res.cloudinary.com/dxwixlgfr/image/upload/v1782348048/file_000000006fec72098e4ca29ec3a4d3d4_gpehrc.png" width="320" style="border-radius: 50%; border: 3px solid #3B82F6;" alt="Roshan Kumar Singh" />
 
 <br/><br/>
 
@@ -50,7 +50,7 @@ I'm a **Computer Science engineer from India** who builds full-stack systems whe
 
 <br/>
 
-My mission is to **democratize technology access** — building software people can actually use, without apps they can't install, forms they can't read, or interfaces that leave them behind.
+My mission is to **democratize technology access** - building software people can actually use, without apps they can't install, forms they can't read, or interfaces that leave them behind.
 
 <br/>
 
@@ -105,77 +105,56 @@ JWT · Socket.io · human-centered UI
 
 <img src="https://img.shields.io/badge/02-SELECTED_WORK-0D1117?style=for-the-badge&labelColor=635BFF&color=161B22" />
 
-<br/><br/>
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="100%">
-
-### VAANI — AI-Powered Civic Engagement
-
-<img src="https://img.shields.io/badge/Type-Voice_First_Civic_Tech-161B22?style=flat-square&labelColor=3B82F6&color=0D1117" />
-<img src="https://img.shields.io/badge/Stack-React_·_FastAPI_·_GPT--4-161B22?style=flat-square&labelColor=0D1117&color=161B22" />
-<a href="https://github.com/roshan-1205/VAANI"><img src="https://img.shields.io/badge/Repo-View_Source-635BFF?style=flat-square&labelColor=0D1117" /></a>
-
-<br/><br/>
-
-*I built VAANI so underserved communities could reach government services through **phone calls and WhatsApp voice** — in local languages, on low bandwidth, with no apps or forms required.*
+</div>
 
 <br/>
 
-Voice AI · Geolocation mapping · Smart notifications · Analytics · JWT security
+### 🛍️ AKS Beauty Hut - E-Commerce Platform
 
-</td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Type-Freelance_E--Commerce-161B22?style=flat-square&labelColor=3B82F6&color=0D1117" />
+<img src="https://img.shields.io/badge/Stack-React_·_Node.js_·_MongoDB-161B22?style=flat-square&labelColor=0D1117&color=161B22" />
+
+</div>
 
 <br/>
+
+*I built AKS Beauty Hut as a fully functional e-commerce solution for a local retail business — responsive product catalog, cart & checkout, role-based admin panel, and mobile-first deployment.*
+
+`Product Catalog` `Cart & Checkout` `JWT Auth` `Admin Inventory Panel` `Mobile-First MERN`
 
 ```mermaid
 flowchart LR
-    A["React PWA"] --> B["FastAPI"]
-    B --> C["GPT-4"]
-    B --> D[("MongoDB")]
-    B --> E["Redis"]
-    B --> F["AWS"]
+    A["React Frontend"] --> B["Node.js + Express"]
+    B --> C["MongoDB Atlas"]
+    B --> D["JWT Auth"]
+    B --> E["Admin Panel"]
     style A fill:#161B22,stroke:#3B82F6,color:#F4F4F5
     style B fill:#161B22,stroke:#635BFF,color:#F4F4F5
     style C fill:#161B22,stroke:#3B82F6,color:#F4F4F5
     style D fill:#161B22,stroke:#94A3B8,color:#F4F4F5
     style E fill:#161B22,stroke:#94A3B8,color:#F4F4F5
-    style F fill:#161B22,stroke:#3B82F6,color:#F4F4F5
 ```
-
-<br/>
 
 ---
 
-<br/>
+### 💬 Vibely - Modern Social Platform
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="100%">
-
-### Vibely — Modern Social Platform
+<div align="center">
 
 <img src="https://img.shields.io/badge/Type-Full_Stack_Social-161B22?style=flat-square&labelColor=635BFF&color=0D1117" />
 <img src="https://img.shields.io/badge/Stack-Next.js_·_Socket.io-161B22?style=flat-square&labelColor=0D1117&color=161B22" />
 <a href="https://vibely-frontend-orpin.vercel.app/"><img src="https://img.shields.io/badge/Demo-Live_on_Vercel-3B82F6?style=flat-square&labelColor=0D1117" /></a>
 <a href="https://github.com/roshan-1205/VIBELY"><img src="https://img.shields.io/badge/Repo-View_Source-635BFF?style=flat-square&labelColor=0D1117" /></a>
 
-<br/><br/>
+</div>
+
+<br/>
 
 *I built Vibely as a production-grade social platform — real-time messaging, media posts, dual authentication, and a UI polished enough to earn trust on first load.*
 
-<br/>
-
-Socket.io · Google OAuth · shadcn/ui · Framer Motion · Email notifications
-
-</td>
-</tr>
-</table>
-
-<br/>
+`Socket.io` `Google OAuth` `shadcn/ui` `Framer Motion` `Email notifications`
 
 ```mermaid
 flowchart LR
@@ -189,8 +168,6 @@ flowchart LR
     style D fill:#161B22,stroke:#94A3B8,color:#F4F4F5
     style E fill:#161B22,stroke:#635BFF,color:#F4F4F5
 ```
-
-</div>
 
 <br/>
 
@@ -274,7 +251,7 @@ flowchart LR
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Built-VAANI_+_Vibely_End_to_End-161B22?style=flat-square&labelColor=3B82F6&color=0D1117" />
+<img src="https://img.shields.io/badge/Built-AKS_Beauty_Hut_+_Vibely_End_to_End-161B22?style=flat-square&labelColor=3B82F6&color=0D1117" />
 <img src="https://img.shields.io/badge/Certified-Web_Development-161B22?style=flat-square&labelColor=635BFF&color=0D1117" />
 <img src="https://img.shields.io/badge/Hackathon-Trillx_1.0-161B22?style=flat-square&labelColor=0D1117&color=161B22" />
 
