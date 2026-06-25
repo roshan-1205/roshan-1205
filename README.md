@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://res.cloudinary.com/dxwixlgfr/image/upload/v1782348048/file_000000006fec72098e4ca29ec3a4d3d4_gpehrc.png" width="320" style="border-radius: 50%; border: 3px solid #3B82F6;" alt="Roshan Kumar Singh" />
+<img src="https://res.cloudinary.com/dxwixlgfr/image/upload/v1782348048/file_000000006fec72098e4ca29ec3a4d3d4_gpehrc.png" width="240" style="border-radius: 50%; border: 3px solid #3B82F6;" alt="Roshan Kumar Singh" />
 
 <br/><br/>
 
