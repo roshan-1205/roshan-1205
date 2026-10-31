@@ -57,7 +57,7 @@
 <br/>
 
 <!-- 3D CONTRIBUTION GRAPH -->
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contributions skyline" width="100%" />
+<img src="./profile-3d-contrib/profile-akatsuki.svg" alt="Akatsuki 3D Contributions" width="100%" />
 
 <br/>
 
