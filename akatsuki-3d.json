@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-akatsuki.svg",
+  "backgroundColor": "#0B0B12",
+  "foregroundColor": "#F7E7EA",
+  "strongColor": "#FF496D",
+  "weakColor": "#A88E9B",
+  "radarColor": "#F43F5E",
+  "growingAnimation": true,
+  "contribColors": [
+    "#21131E",
+    "#522037",
+    "#8B2747",
+    "#D3365C",
+    "#FF5E79"
+  ]
+}
