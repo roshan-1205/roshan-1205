@@ -65,7 +65,7 @@
 <br/><br/>
 
 <!-- First shows a designed no-data placeholder; workflow replaces it with real GitHub data. -->
-<img src="./activity-tracker.svg" alt="Akatsuki-themed real GitHub commit counts, contribution heatmap and contribution streak" width="100%" />
+<img src="./activity-tracker.svg?v=2" alt="Akatsuki GitHub Live Commit Tracker" width="100%"/>
 
 <br/>
 
