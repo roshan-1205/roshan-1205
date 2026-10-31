@@ -36,11 +36,6 @@
       <td><code>React</code> <code>Express</code> <code>MongoDB</code> <code>Socket.IO</code></td>
     </tr>
     <tr>
-      <td><a href="https://stratify31-app.web.app/"><b>Stratify</b></a></td>
-      <td>Team project management, Kanban workflows, task tracking and live collaboration.</td>
-      <td><code>React</code> <code>Node.js</code> <code>Socket.IO</code></td>
-    </tr>
-    <tr>
       <td><b>VAANI</b></td>
       <td>Voice-first civic assistance platform designed for multilingual accessibility.</td>
       <td><code>AWS</code> <code>Bedrock</code> <code>Voice AI</code></td>
